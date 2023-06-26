@@ -1,0 +1,14 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f0f0f0;
+  }
+  
+  .column {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 20px;
+  }
